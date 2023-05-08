@@ -7,8 +7,8 @@
 h1{
   font-family: 'Lobster', cursive; ;
   text-align: center;
-  color: rgb(188, 85, 85);
-  font-size: 90px;
+  color: rgb(209, 26, 26);
+  font-size: 70px;
   margin: 30px;
 }
 
@@ -36,14 +36,14 @@ h1{
    color: white;
    padding: 15px;
    border-radius: 10px;
-   background-color: #958078; ;
+   background-color:#008F8C
    
   
   }
   h2{
     font-family: 'EB Garamond', serif;
     font-size: 25px;
-    color:rgb(57, 72, 89);
+    color:#015958;
     margin-left:3%;
    display: inline-block;
   }
